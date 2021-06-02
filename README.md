@@ -22,17 +22,17 @@ Make hacking easy with automation to do various type of attacks on your target.
                                                                                                                                     
       
  Index            Tool Name         
-[  01  ]     |    Port Scanner
-[  02  ]     |    ARP Scanner
-[  03  ]     |    Man In The Middle Automation
-[  04  ]     |    DDoS Automations
-[  05  ]     |    Start Advance Backdoor Server
-[  06  ]     |    sshBrute - Linux Only
-[  07  ]     |    FtpBrute
-[  08  ]     |    HashFactory
-[  09  ]     |    Zip File Cracker
-[  10  ]     |    Crypto For Files
-[  00  ]     |    Exit
+[  01  ]     |    Port Scanner    
+[  02  ]     |    ARP Scanner   
+[  03  ]     |    Man In The Middle Automation    
+[  04  ]     |    DDoS Automations    
+[  05  ]     |    Start Advance Backdoor Server   
+[  06  ]     |    sshBrute - Linux Only   
+[  07  ]     |    FtpBrute    
+[  08  ]     |    HashFactory   
+[  09  ]     |    Zip File Cracker    
+[  10  ]     |    Crypto For Files    
+[  00  ]     |    Exit    
 
 LazyHacks@chooseOption~#$                                      
 
